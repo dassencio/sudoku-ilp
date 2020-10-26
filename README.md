@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.com/dassencio/sudoku.svg?branch=master)](https://travis-ci.com/dassencio/sudoku)
+![Functional tests](https://github.com/dassencio/sudoku/workflows/Functional%20tests/badge.svg)
 
 # Description
 
